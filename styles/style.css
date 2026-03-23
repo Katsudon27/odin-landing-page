@@ -114,12 +114,21 @@ body {
 .section3{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #e5e7eb;
-    padding: 30px 300px;
+    padding: 100px 300px;
 }
 
 .section3 blockquote{
     font-size: 36px;
     color:#1f2937;
     font-weight: 300;
+    margin: 0;
+}
+
+.section3 p{
+    align-self: flex-end;
+    font-size: 28px;
+    font-weight: bold;
 }
