@@ -85,6 +85,9 @@ body {
 .image-container {
     display: flex;
     text-align: center;
+    gap: 40px;
+    padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 .image-item {
@@ -93,10 +96,17 @@ body {
     align-items: center;
 }
 
+.image-item p{
+    font-size: 18px;
+    color: #1f2937;
+    margin: 0;
+}
+
 .image-placeholder {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     background-color: white;
     border: 5px solid #3882F6;
     border-radius: 20px;
+    margin-bottom: 10px;
 }
