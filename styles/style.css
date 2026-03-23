@@ -117,3 +117,9 @@ body {
     background-color: #e5e7eb;
     padding: 30px 300px;
 }
+
+.section3 blockquote{
+    font-size: 36px;
+    color:#1f2937;
+    font-weight: 300;
+}
