@@ -75,3 +75,9 @@ body {
     align-items: center;
     padding: 30px;
 }
+
+.section2 h1{
+    font-size: 36px;
+    color:#1f2937;
+    font-weight: 900;
+}
