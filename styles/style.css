@@ -40,3 +40,11 @@ body {
     color: #F9FAF8;
     font-weight: 900;
 }
+
+.hero-left button {
+    font-weight: bold;
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: none;
+}
