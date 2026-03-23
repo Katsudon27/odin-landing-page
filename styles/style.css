@@ -86,3 +86,11 @@ body {
     display: flex;
     text-align: center;
 }
+
+.image-placeholder {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+}
