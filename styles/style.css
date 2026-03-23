@@ -5,7 +5,7 @@ body {
 
 .section1 {
     background-color: #1f2937;
-    padding: 30px 300px;
+    padding: 30px 250px;
 }
 
 .header {
@@ -32,8 +32,7 @@ body {
 
 .hero-content {
     display: flex;
-    align-items: center;
-    gap: 30px;
+    gap: 20px;
     padding-top: 100px;
     padding-bottom: 100px;
 }
@@ -42,9 +41,9 @@ body {
     flex: 1;
 }
 
- .hero-item p {
+.hero-item p {
     margin: 0;
- }
+}
 
 .hero-item h1{
     font-size: 48px;
@@ -64,10 +63,8 @@ body {
 }
 
 .image-placeholder{
-    align-self: stretch;
     background-color: darkgray;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px 80px;
 }
