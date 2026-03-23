@@ -110,3 +110,8 @@ body {
     border-radius: 20px;
     margin-bottom: 10px;
 }
+
+.section3{
+    display: flex;
+    flex-direction: column;
+}
