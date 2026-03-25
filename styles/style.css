@@ -160,3 +160,10 @@ body {
 .cta-container h2, .cta-container p {
     margin: 0;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 15px;
+}
