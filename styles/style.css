@@ -4,7 +4,6 @@ body {
 }
 
 .section1 {
-    background-color: #1f2937;
     padding: 30px 250px;
 }
 
@@ -55,7 +54,6 @@ body {
 
 .hero-item button, .cta-container button {
     font-weight: bold;
-    background-color: #3882F6;
     border-radius: 10px;
     padding: 8px 40px;
     border: none;
@@ -139,7 +137,6 @@ body {
 }
 
 .cta-container {
-    background-color: #3882F6;
     border-radius: 10px;
     padding: 50px 40px;
     display: flex;
@@ -162,8 +159,15 @@ body {
 }
 
 .footer {
-    background-color: #1f2937;
     color: #E5E7EB;
     text-align: center;
     padding: 15px;
+}
+
+.dark-blue-background {
+    background-color: #1f2937;
+}
+
+.light-blue-background {
+    background-color: #3882F6;
 }
