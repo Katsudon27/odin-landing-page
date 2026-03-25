@@ -133,3 +133,12 @@ body {
     font-weight: bold;
     margin-right: 40px;
 }
+
+.section4 {
+    padding: 120px 300px;
+}
+
+.cta-container {
+    background-color: #3882F6;
+    display: flex;
+}
