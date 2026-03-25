@@ -152,8 +152,12 @@ body {
     color: #E5E7EB;
 }
 
-.cta-container h2, .cta-container p {
+.cta-container h2 {
     margin: 0;
+}
+
+.cta-container p {
+    margin-bottom: 0;
 }
 
 .footer {
