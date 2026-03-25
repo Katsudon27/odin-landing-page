@@ -41,10 +41,6 @@ body {
     flex: 1;
 }
 
-.hero-item p {
-    margin: 0;
-}
-
 .hero-item h1{
     font-size: 48px;
     color: #F9FAF8;
