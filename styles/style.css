@@ -43,10 +43,14 @@ body {
 
 .hero-item h1{
     font-size: 48px;
-    color: #F9FAF8;
+    color: #e9eaeb;
     font-weight: 900;
     flex: 1 1 0px;
     margin: 0;
+}
+
+.hero-item p {
+    color: #afb0b0;
 }
 
 .hero-item button, .cta-container button {
@@ -60,6 +64,7 @@ body {
 .hero-image-placeholder img, .image-container img {
     max-width: 100%;
     height: auto;
+    border-radius: 10px;
 }
 
 .image-container img {
@@ -75,7 +80,7 @@ body {
 
 .section2 h1{
     font-size: 36px;
-    color:#1f2937;
+    color:#0a0405;
     font-weight: 900;
 }
 
@@ -98,27 +103,18 @@ body {
     color: #1f2937;
 }
 
-.image-placeholder {
-    width: 180px;
-    height: 180px;
-    background-color: white;
-    border: 5px solid #3882F6;
-    border-radius: 20px;
-    margin-bottom: 10px;
-}
-
 .section3{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #e5e7eb;
+    background-color: #afb0b0;
     padding: 120px 300px;
 }
 
 .section3 blockquote{
     font-size: 36px;
-    color:#1f2937;
+    color:#0a0405;
     font-weight: 300;
     margin: 0;
 }
@@ -145,31 +141,29 @@ body {
 
 .cta-container button {
     margin: 0;
-    border: 3px solid #E5E7EB;
-}
-
-.cta-container {
-    color: #E5E7EB;
+    border: 3px solid #e9eaeb;
 }
 
 .cta-container h2 {
+    color: #e9eaeb;
     margin: 0;
 }
 
 .cta-container p {
+    color: #afb0b0;
     margin-bottom: 0;
 }
 
 .footer {
-    color: #E5E7EB;
+    color: #a5a7a6;
     text-align: center;
     padding: 15px;
 }
 
-.dark-blue-background {
-    background-color: #1f2937;
+.black-background {
+    background-color: #0a0405;
 }
 
-.light-blue-background {
-    background-color: #3882F6;
+.red-background {
+    background-color: #a21d23;
 }
