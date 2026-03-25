@@ -135,10 +135,12 @@ body {
 }
 
 .section4 {
-    padding: 120px 300px;
+    padding: 120px 200px;
 }
 
 .cta-container {
     background-color: #3882F6;
+    padding: 30px 40px;
     display: flex;
+    justify-content: space-evenly;
 }
